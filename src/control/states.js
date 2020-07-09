@@ -113,9 +113,10 @@ const states = {
       stopDownTrigger()
     }
 
-    const addPoints = store.state.points + 10 + (store.state.speedRun - 1) * 2 // 速度越快, 得分越高
-
-    states.dispatchPoints(addPoints)
+    // terry修改 掉落时分数不增加
+    // const addPoints = store.state.points + 10 + (store.state.speedRun - 1) * 2 // 速度越快, 得分越高
+    //
+    // states.dispatchPoints(addPoints)
 
     if (isClear(matrix)) {
       if (music.clear) {
@@ -178,7 +179,9 @@ const states = {
     const clearLines = state.clearLines + lines.length
     store.commit('clearLines', clearLines)
 
-    const addPoints = store.state.points + clearPoints[lines.length - 1] // 一次消除的行越多, 加分越多
+    // terry修改，每消除一行固定得10分
+    // const addPoints = store.state.points + clearPoints[lines.length - 1] // 一次消除的行越多, 加分越多
+    const addPoints = store.state.points + lines.length * 10
     states.dispatchPoints(addPoints)
 
     const speedAdd = Math.floor(clearLines / eachLines) // 消除行数, 增加对应速度

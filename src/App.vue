@@ -8,16 +8,18 @@
           <Logo :cur="!!cur" :reset="reset" />
           <div class="state">
             <Point :cur="!!cur" :max="max" :point="points" />
-            <p>{{pContent}}</p>
-            <Number :number='cur ? clearLines : startLines' />
-            <p>{{level}}</p>
-            <Number :number='cur?speedRun:speedStart' :length="1" />
+<!--            terry 修改：去除起始行和级别-->
+<!--            <p>{{pContent}}</p>-->
+<!--            <Number :number='cur ? clearLines : startLines' />-->
+<!--            <p>{{level}}</p>-->
+<!--            <Number :number='cur?speedRun:speedStart' :length="1" />-->
             <p>{{nextText}}</p>
             <Next :data="next" />
             <div class="bottom">
               <Music :data="music" />
               <Pause :data="pause" />
-              <Number :propTime="true" />
+<!--              terry修改，去除时间-->
+<!--              <Number :propTime="true" />-->
             </div>
           </div>
         </div>

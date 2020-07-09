@@ -11,13 +11,17 @@ const mutations = {
     state.cur = data.reset === true ? null : new Block(data)
   },
   speedStart(state, data) {
-    state.speedStart = data
+    // terry修改，速度永远为1
+    // state.speedStart = data
+    state.speedStart = 1
   },
   speedRun(state, data) {
     state.speedRun = data
   },
   startLines(state, data) {
-    state.startLines = data
+    // terry修改，起始行永远为0
+    // state.startLines = data
+    state.startLines = 0
   },
   matrix(state, data) {
     state.matrix = data

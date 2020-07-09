@@ -39,13 +39,18 @@ export default {
         // 游戏未开始
         const toggle = () => {
           // 最高分与上轮得分交替出现
-          this.label = SLDF
-          this.number = point
-          Point.timeout = setTimeout(() => {
-            this.label = ZDF
-            this.number = max
-            Point.timeout = setTimeout(toggle, 3000)
-          }, 3000)
+          // this.label = ZDF
+          // this.number = point
+          // Point.timeout = setTimeout(() => {
+          //   this.label = ZDF
+          //   this.number = max
+          //   Point.timeout = setTimeout(toggle, 3000)
+          // }, 3000)
+
+          // terry 改为只出现最高分
+          this.label = ZDF
+          this.number = max
+
         }
 
         if (point !== 0) {
