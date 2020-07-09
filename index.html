@@ -16,4 +16,22 @@
   </div>
 </body>
 
+<!--terry新增功能，定时跳转-->
+<script>
+  function changePage(target, time) {
+    function get_tiao_func(target) {
+      return function tiao(){
+        window.open(target,"_self");
+      }
+    };
+
+    tiao = get_tiao_func(target);
+
+    setTimeout( "tiao()",time*1000);
+  }
+
+  // changePage('pre/test.html', 5)
+</script>
+
+
 </html>
