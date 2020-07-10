@@ -8,6 +8,7 @@ import Point from './components/point/index.vue'
 import Keyboard from './components/keyboard/index.vue'
 import Logo from './components/logo/index.vue'
 import Matrix from './components/matrix/index.vue'
+import Devpanel from './components/devpanel/index.vue'
 import { mapState } from 'vuex'
 import { transform, lastRecord, speeds, i18n, lan } from './unit/const'
 import { visibilityChangeEvent, isFocus } from './unit/'
@@ -35,7 +36,8 @@ export default {
     Point,
     Logo,
     Keyboard,
-    Matrix
+    Matrix,
+    Devpanel
   },
   computed: {
     pContent() {

@@ -14,7 +14,7 @@ Vue.config.productionTip = false
 if (getUrlParameter('type')==='practice') {
   new Vue({
     el: '#root',
-    render: h => h(App2),
+    render: h => h(App),
     store: store
   })
 }

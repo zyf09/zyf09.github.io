@@ -1,5 +1,6 @@
 <template>
   <div class="app" :style="size">
+
     <div class="rect" :class="drop?'drop':''">
       <Decorate/>
       <div class="screen">
@@ -27,6 +28,8 @@
     </div>
     <Keyboard :filling='filling' />
     <Guide/>
+    <Devpanel/>
+
   </div>
 </template>
 
