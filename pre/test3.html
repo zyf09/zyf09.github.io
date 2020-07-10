@@ -1,41 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <!--这行声明必不可少，且必须位于文档最前面-->
+<html>
 <head>
   <meta charset="UTF-8">
   <title>固定宽度且居中</title>
-  <style type="text/css" media="all">
-
-    .container {
-      width: 60%px;
-      margin: 0 20%;
-    }
-
-    .leftbox {
-      width: 30%;
-      height: 300%;
-      background-color: #aadddd;
-      float: left;
-    }
-    .rightbox {
-      width: 70%;
-      height: 300%;
-      background-color: #f08844;
-      float: right;
-    }
-
-  </style>
 </head>
 
 <body>
 
-<!-- Wenjuan Layer Begin -->
-<div id="idy_floatdiv" style="position:fixed;right:0;top:250px;">
-  <a href="http://www.wenjuan.com/s/j6nu6zh/" target="blank"><img src="http://www.wenjuan.com/static/images/sharepic/share_pA.png" /></a>
-</div>
-<!-- Wenjuan Layer End -->
+<script type="module">
+  import {getApp, getUrlParameter} from '../src/choose_practice.js'
+</script>
+
+<script type="text/javascript">
+  let App = getApp('App')
+
+  console.log(App)
+</script>
+
 
 </body>
-
-<!--<script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=84794224&width=760&source=iframe'></script>-->
-
 </html>
