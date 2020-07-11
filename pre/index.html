@@ -54,18 +54,41 @@
 
   <div id="subject_info">
     <p><b>请输入你的个人信息:</b></p>
-    <b>姓名: </b> <input type="text">
+    <b>姓名: </b> <input type="text" id="subjectname">
     <br>
-    <b>实验ID:</b>  <input type="text" placeholder="请按短信内提供id填写">
+    <b>实验ID:</b>  <input type="text" id="subjectid" placeholder="请按短信内提供id填写" oninput="idInput()">
   </div>
 
   <center>
-    <button onclick="javascript:window.location.href='guide-1.html'">已阅读并同意</button>
+    <button id="btn" onclick="clickButton()" disabled="true">已阅读并同意</button>
   </center>
 
   <br>
   <br>
 </div>
+
+<script>
+
+  // 只有ID有输入值后才可以点击按钮
+  function idInput() {
+    document.getElementById('btn').disabled=false;
+  }
+
+  //检测ID输入是否正确，并传递条件的参数
+  function clickButton() {
+    var subjectId = document.getElementById('subjectid').value;
+    var link = 'guide-1.html?' + 'condition=' + subjectId[0].toLowerCase();
+
+    if (['a', 'b', 'c', 'd'].indexOf(subjectId[0].toLowerCase()) > -1 ) {
+      window.location.href=link
+    }
+    else {
+      alert("请检查姓名和ID是否正确")
+    }
+  }
+
+</script>
+
 
 </body>
 

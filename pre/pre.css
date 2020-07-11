@@ -38,6 +38,12 @@ button {
   font-size: 18px;
 }
 
+/** 必须提升样式优先权(!important) **/
+button[disabled] {
+  color: white !important;
+  background: gray !important;
+}
+
 .title {
   margin-top: 30px;
   text-align: center;

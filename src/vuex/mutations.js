@@ -13,7 +13,7 @@ const mutations = {
   speedStart(state, data) {
     // terry修改，速度永远为1
     // state.speedStart = data
-    state.speedStart = 1
+    // state.speedStart = 1
   },
   speedRun(state, data) {
     state.speedRun = data

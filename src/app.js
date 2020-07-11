@@ -126,6 +126,31 @@ export default {
       } else {
         states.overStart()
       }
+
+      // terry:根据页面参数定义下降速度
+      function getUrlParameter(name){
+        name = name.replace(/[]/,"\[").replace(/[]/,"\[").replace(/[]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec(window.parent.location.href );
+        if( results == null ) return ""; else {
+          return results[1];
+        }
+      };
+      // terry: 将条件写入vuex的状态中
+      if (['a', 'b', 'c', 'd'].indexOf(getUrlParameter("condition")) > -1 ) {
+        this.$store.state.speedCondition = getUrlParameter("condition")
+      }
+      if (['a', 'b'].indexOf(this.$store.state.speedCondition) > -1) {
+        this.$store.state.speedStart = 2
+        // this.$store.commit('speedStart', 2)
+      }
+      else {
+        this.$store.state.speedStart = 5
+        // this.$store.commit('speedStart', 5)
+      }
+
     }
   }
 }
+

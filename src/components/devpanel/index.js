@@ -15,11 +15,13 @@ export default {
   methods: {
     skipPractice() {
       this.$store.commit('reset', true)  // 重启游戏
-      setTimeout(`window.open('../pre/guide-2.html',"_self")`, 2000)
+      // setTimeout(`window.open('../pre/guide-2.html?condition=' + this.$store.state.speedCondition,"_self")`, 1200)
+      let a = '../pre/guide-2.html?condition=' + this.$store.state.speedCondition
+      setTimeout(function() {window.location.href = a}, 1200);
     },
     skipFormalGame() {
       window.open('../pre/questionare.html',"_self")
-    },
+    }
   }
 }
 

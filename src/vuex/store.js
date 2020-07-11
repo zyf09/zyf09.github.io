@@ -128,7 +128,8 @@ const state = {
   },
 
   lock: lockInitState,
-  focus: isFocus()
+  focus: isFocus(),
+  speedCondition : 'a'  // terry：记录被试的条件
 }
 export default new Vuex.Store({
   state,

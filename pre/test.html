@@ -7,34 +7,38 @@
 <body>
 
   <h2>test</h2>
+<!--  <button id="btn" onclick="javascript:window.location.href='baidu.com'">已阅读并同意</button>-->
+  <button id="btn" onclick="fun()">已阅读并同意</button>
 
 
   <script>
-    function getQueryVariable(variable)
-    {
-      var query = window.location.search.substring(1);
-      var vars = query.split("&");
-      for (var i=0;i<vars.length;i++) {
-        var pair = vars[i].split("=");
-        if(pair[0] == variable){return pair[1];}
-      }
-      return(false);
+    // var btn = document.getElementById("btn")
+    // btn.onclick = "javascript:window.location.href='jd.com'"
+
+    // function fun() {
+    //   window.location.href='jd.com'
+    // }
+
+
+    function jumpurl() {
+      location="pre/test.html"
+    }
+    function url() {
+      setTimeout('jumpurl()', 5000)
     }
 
-    function changePage(target, time) {
-      function get_tiao_func(target) {
-        return function tiao(){
-          window.open(target,"_self");
-        }
-      };
-      tiao = get_tiao_func(target);
-      setTimeout( "tiao()",time*1000);
-    };
+
+    // setTimeout(window.location.href = "http://3aj.cn/javascript/19.html", 3);
+    setTimeout(function() {window.location.href = "http://3aj.cn/javascript/19.html"}, 3000);
 
 
-    if (getQueryVariable('type')==='practice') {
-      changePage('test2.html', 5)
-    }
+    // if (5>3) {
+    //   console.log('test ok')
+    //   // changePage('pre/test.html', 0.1)
+    //   url();
+    // }
+
+
   </script>
 
 

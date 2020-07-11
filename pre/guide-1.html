@@ -41,9 +41,31 @@
       <p>练习过程中会对你的水平进行测试，请认真对待</p>
     </article>
 
-    <button onclick="javascript:window.location.href='../dist/index.html?type=practice'">已了解，开始练习</button>
+<!--    <button onclick="javascript:window.location.href='../dist/index.html?type=practice'">已了解，开始练习</button>-->
+    <button onclick="clickButton()">已了解，开始练习</button>
   </div>
 </div>
+
+<script>
+
+  function getUrlParameter(name){
+    name = name.replace(/[]/,"\[").replace(/[]/,"\[").replace(/[]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec(window.parent.location.href );
+    if( results == null ) return ""; else {
+      return results[1];
+    }
+  };
+
+  function clickButton() {
+    var condition = getUrlParameter('condition')
+    var link = '../dist/index.html?type=practice&' + 'condition=' + condition;
+
+    window.location.href=link
+  }
+</script>
+
 
 
 </body>

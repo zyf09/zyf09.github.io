@@ -26,7 +26,6 @@ else {
   })
 }
 
-
 // 若是没有开启Devtools工具，在开发环境中开启，在生产环境中关闭
 if (process.env.NODE_ENV == 'development') {
   Vue.config.devtools = true;
@@ -34,18 +33,22 @@ if (process.env.NODE_ENV == 'development') {
   Vue.config.devtools = false;
 }
 
-function changePage(target, time) {
-  function get_tiao_func(target) {
-    return function tiao(){
-      window.open(target,"_self");
-    }
-  };
+// 自动跳转
 
-  let tiao = get_tiao_func(target);
-  setTimeout( "tiao()",time*1000);
-}
-
+const speedCondition = getUrlParameter('condition')
 
 if (getUrlParameter('type')==='practice') {
-  changePage('pre/test.html', 5)
+  let a = '../pre/guide-2.html' + '?condition=' + speedCondition
+  setTimeout(function() {window.location.href = a}, 5*60*1000);
 }
+
+// function changePage(target, time) {
+//   function get_tiao_func(target) {
+//     return function tiao(){
+//       window.open(target,"_self");
+//     }
+//   };
+//
+//   function tiao() {return get_tiao_func(target)};
+//   setTimeout( "tiao()",time*1000);
+// }
