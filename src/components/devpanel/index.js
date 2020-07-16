@@ -20,7 +20,7 @@ export default {
       setTimeout(function() {window.location.href = a}, 1200);
     },
     skipFormalGame() {
-      window.open('../pre/questionare.html',"_self")
+      window.open('../pre/guide-3.html',"_self")
     }
   }
 }
