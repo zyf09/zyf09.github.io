@@ -184,7 +184,9 @@ const states = {
     const addPoints = store.state.points + lines.length * 10
     states.dispatchPoints(addPoints)
 
-    const speedAdd = Math.floor(clearLines / eachLines) // 消除行数, 增加对应速度
+    // terry修改，去除这个消除行书增加速度的设定
+    // const speedAdd = Math.floor(clearLines / eachLines) // 消除行数, 增加对应速度
+    const speedAdd = 0
     let speedNow = state.speedStart + speedAdd
     speedNow = speedNow > 6 ? 6 : speedNow
     store.commit('speedRun', speedNow)
