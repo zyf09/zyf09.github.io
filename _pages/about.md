@@ -30,7 +30,7 @@ My research interests focus on utilizing various technological approaches to add
 
 Publications  
 ======
-<span style="color: grey;">[#co-first author; *corresponding author]</span>
+<span style="color: grey;">#co-first author; *corresponding author</span>
 ### Published (3) 
 1. **Zhang, Y.**, & Wang, F.* (2024). Developments and trends in flow research over 40 years: A bibliometric analysis. ***Collabra: Psychology***, 10(1). [https://doi.org/10.1525/collabra.92948](https://doi.org/10.1525/collabra.92948)  
 <!-- 📄[Download PDF]   -->
@@ -58,3 +58,7 @@ Publications
 
 
 
+Hobbies  
+======
+🎾 Tennis (Level: NTRP 3.5)  
+⛰️ Hiking and mountain climbing
