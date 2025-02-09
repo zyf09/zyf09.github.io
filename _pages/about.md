@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Yongfa!"
+title: "👋 Hi, I'm Yongfa!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Ph.D. candidate in Psychology at Tsinghua University, where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang (王非)](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and am actively seeking postdoctoral or faculty positions. I welcome potential collaborations and opportunities.
+
+
+
 
 A data-driven personal website
 ======
