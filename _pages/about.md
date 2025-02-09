@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Psychology at Tsinghua University (清华大学心理与认知科学系), where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang (王非)](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and <span style="color:purple; font-weight:bold;"> am actively seeking postdoctoral or faculty positions </span>. I welcome potential collaborations and opportunities.
   
----
+
 Research Interests  
 ======
 My research interests focus on utilizing various technological approaches to address significant questions in social, cultural, and cognitive psychology.
@@ -25,10 +25,9 @@ My research interests focus on utilizing various technological approaches to add
 - **Machine Learning**: Predicting human behavior through computational approaches
 - **Natural Language Processing**: Leveraging text analysis to understand psychological phenomena in natural language
 - **Drift Diffusion Modeling**: Implementing computational modeling to understand decision-making processes and cognitive mechanisms  
----
 
 
----
+
 Publications  
 ======
 
@@ -38,9 +37,6 @@ Publications
 (IF<sub>2023</sub> = 4.7, ESCI Q1)
 >> **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis
 
-
-
----
 
 
 
