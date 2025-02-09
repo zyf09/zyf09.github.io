@@ -38,7 +38,7 @@ Publications
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
 
-2. **Zhang, Y.**, Wang, F.*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
+2. **Zhang, Y.**, Wang, F.*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. **NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2023</sub> = 4.7, ESCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
