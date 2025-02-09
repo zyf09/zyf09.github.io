@@ -43,7 +43,7 @@ Publications
 (IF<sub>2023</sub> = 4.7, ESCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-3. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2023). Influence of competition-outcome feedback in video games on players’ flow experience. Current Psychology, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
+3. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2023). Influence of competition-outcome feedback in video games on players’ flow experience. ***Current Psychology***, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2023</sub> = 2.5, SSCI Q2)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
