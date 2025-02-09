@@ -19,7 +19,7 @@ My research interests focus on utilizing various technological approaches to add
 - **Self**: Investigating the fundamental mechanisms of self-related processing and its role in human cognition and behavior
 - **Flow**: Exploring the psychological state of flow experience and its implications for optimal performance and well-being
 
-### Methods
+### Technologies
 
 - **fMRI**: resting-state & task-based
 - **Machine Learning**: Predicting human behavior through computational approaches
@@ -30,12 +30,23 @@ My research interests focus on utilizing various technological approaches to add
 
 Publications  
 ======
-
-### Published (3)
-1. **Zhang, Y.**, Wang, F., & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
+<span style="color: grey;">[#co-first author; *corresponding author]</span>
+### Published (3) 
+1. **Zhang, Y.**, & Wang, F.* (2024). Developments and trends in flow research over 40 years: A bibliometric analysis. ***Collabra: Psychology***, 10(1). [https://doi.org/10.1525/collabra.92948](https://doi.org/10.1525/collabra.92948)  
 <!-- 📄[Download PDF]   -->
-(IF<sub>2023</sub> = 4.7, ESCI Q1)
->> **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis
+(IF<sub>2023</sub> = 3.1, SSCI Q1)  
+<!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
+
+
+2. **Zhang, Y.**, Wang, F.*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
+<!-- 📄[Download PDF]   -->
+(IF<sub>2023</sub> = 4.7, ESCI Q1)  
+<!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
+
+3. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2023). Influence of competition-outcome feedback in video games on players’ flow experience. Current Psychology, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
+<!-- 📄[Download PDF]   -->
+(IF<sub>2023</sub> = 2.5, SSCI Q2)  
+<!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
 
 
