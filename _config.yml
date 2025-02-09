@@ -23,13 +23,13 @@ repository               : "zyf09/zyf09.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yongfa Zhang"
+  name             : "Yongfa Zhang (张永发)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email1234           : "zhangyongfa09@gmail.com" 
+  email            : "zhangyongfa09@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-3269-4409"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yongfa-Zhang-4"
   scopus           : # URL
 
   # Repositories and software development
