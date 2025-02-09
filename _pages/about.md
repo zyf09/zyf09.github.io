@@ -15,14 +15,13 @@ I am a Ph.D. candidate in Psychology at Tsinghua University, where I also earned
 Research Interests
 ======
 My research interests focus on utilizing various technological approaches to address significant questions in social, cultural, and cognitive psychology.
-</br>
 
-## Research Areas
+### Research Areas
 
 - **Self**: Investigating the fundamental mechanisms of self-related processing and its role in human cognition and behavior
 - **Flow**: Exploring the psychological state of flow experience and its implications for optimal performance and well-being
 
-## Methods
+### Methods
 
 - **fMRI**: resting-state & task-based
 - **Machine Learning**: Predicting human behavior through computational approaches
