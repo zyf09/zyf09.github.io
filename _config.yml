@@ -22,14 +22,14 @@ repository               : "zyf09/zyf09.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yongfa Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email: zhangyongfa09@gmail.com            : "zhangyongfa09@gmail.com" 
+  email1234           : "zhangyongfa09@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
