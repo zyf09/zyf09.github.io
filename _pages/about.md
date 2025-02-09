@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Psychology at Tsinghua University, where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang (王非)](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and am actively seeking postdoctoral or faculty positions. I welcome potential collaborations and opportunities.
+I am a Ph.D. candidate in Psychology at Tsinghua University, where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang (王非)](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and <span style="color:purple; font-weight:bold;"> am actively seeking postdoctoral or faculty positions </span>. I welcome potential collaborations and opportunities.
 
 
 
