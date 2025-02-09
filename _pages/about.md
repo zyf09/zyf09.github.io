@@ -48,6 +48,13 @@ Publications
 (IF<sub>2023</sub> = 2.5, SSCI Q2)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
+### In submission (3) 
+
+1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (In submission). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)  
+
+2. **Zhang, Y.**, Sun, Y., Wang, H., Pan, W., Wang, F.*, & Sui, J. (In submission). Neural Compensation in Medial Prefrontal Cortex Preserves Self-Prioritization in Aging: A Computational Approach.
+
+3. Liang, Q., **Zhang, Y.**, Wang, F., Wang, Y., Cheng, X., & Zhang, J. (In submission). Dissociation of self and mother-related processing in abstinent heroin misusers. [https://www.authorea.com/doi/full/10.22541/au.172505835.58381832](https://www.authorea.com/doi/full/10.22541/au.172505835.58381832)  
 
 
 
