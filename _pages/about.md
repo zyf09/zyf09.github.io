@@ -63,5 +63,5 @@ Hobbies
 🎾 Tennis (Level: NTRP 3.5)  
 ⛰️ Hiking and mountain climbing  
 
-<img src="images/profile.jpg" alt="Tennis" width="200" height="200">
+<img src="images/tennis.jpg" alt="Tennis" width="200" height="200"> <img src="images/hiking.jpg" alt="Hiking" width="200" height="200">
 <!-- ![Tennis](images/profile.jpg) -->
