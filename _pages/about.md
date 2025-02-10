@@ -58,6 +58,19 @@ Publications
 3. Liang, Q., **Zhang, Y.**, Wang, F., Wang, Y., Cheng, X., & Zhang, J. (In submission). Dissociation of self and mother-related processing in abstinent heroin misusers. [https://www.authorea.com/doi/full/10.22541/au.172505835.58381832](https://www.authorea.com/doi/full/10.22541/au.172505835.58381832)  
 
 
+Funding
+======
+- Future Talented Program of Social Sciences in Tsinghua University (202203)
+
+
+HONORS & AWARDS
+======
+- 2024: Award for Outstanding Poster at the Doctoral Students Forum of Tsinghua University
+- 2024: Yatu Academic Excellence Scholarship of Tsinghua University	
+- 2023: Excellent Comprehensive Scholarship of Tsinghua University
+- 2021: Excellent Master Thesis of Tsinghua University	
+
+
 
 Hobbies
 ======
