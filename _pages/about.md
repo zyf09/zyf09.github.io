@@ -28,7 +28,6 @@ My research interests focus on utilizing various technological approaches to add
 
 ---
 
-
 Publications  
 ======
 <span style="color: grey;">#co-first author; *corresponding author</span>
@@ -57,11 +56,13 @@ Publications
 
 3. Liang, Q., **Zhang, Y.**, Wang, F., Wang, Y., Cheng, X., & Zhang, J. (In submission). Dissociation of self and mother-related processing in abstinent heroin misusers. [https://www.authorea.com/doi/full/10.22541/au.172505835.58381832](https://www.authorea.com/doi/full/10.22541/au.172505835.58381832)  
 
+---
 
 Funding
 ======
-- Future Talented Program of Social Sciences in Tsinghua University (202203)
+- Future Talented Program of Social Sciences in Tsinghua University (202223)
 
+---
 
 HONORS & AWARDS
 ======
@@ -70,7 +71,7 @@ HONORS & AWARDS
 - 2023: Excellent Comprehensive Scholarship of Tsinghua University
 - 2021: Excellent Master Thesis of Tsinghua University	
 
-
+---
 
 Hobbies
 ======
