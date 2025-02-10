@@ -71,6 +71,25 @@ HONORS & AWARDS
 - 2023: Excellent Comprehensive Scholarship of Tsinghua University
 - 2021: Excellent Master Thesis of Tsinghua University	
 
+
+---
+
+Invited Talks
+======
+**[2023.12]: The theoretical and practical issues of resting-state fMRI**
+- Invited by Prof. Pei Sun to give a guest lecture in *Brain Science Experiments* course at Tsinghua University
+
+
+---
+
+
+Professional Training
+======
+**[2024.07]: Multimodal Neuroimaging Analysis Training with FSL**
+- Training in FSL neuroimaging analysis (structural MRI, functional MRI, and DTI)
+- Organized by Institute of Psychology, Chinese Academy of Sciences
+- Instructed by Ya-Zhuo Kong (孔亚卓) and Ji-Xin Liu (刘继欣)
+
 ---
 
 Hobbies
