@@ -88,9 +88,19 @@ Professional Training
 **[2024.07]: Multimodal Neuroimaging Analysis Training with FSL**
 - Training in FSL neuroimaging analysis (structural MRI, functional MRI, and DTI)
 - Organized by Institute of Psychology, Chinese Academy of Sciences
-- Instructed by Ya-Zhuo Kong (孔亚卓) and Ji-Xin Liu (刘继欣)
+- Instructed by Yazhuo Kong (孔亚卓) and Jixin Liu (刘继欣)
+
 
 ---
+
+
+Industry Experience
+======
+Full-time Data Analyst for 4 years across multiple industries including insurance, gaming, internet technology, and education.
+
+
+---
+
 
 Hobbies
 ======
