@@ -25,6 +25,7 @@ My research interests focus on utilizing various technological approaches to add
 - **Machine Learning**: Predicting human behavior through computational approaches
 - **Natural Language Processing**: Leveraging text analysis to understand psychological phenomena in natural language
 - **Drift Diffusion Modeling**: Implementing computational modeling to understand decision-making processes and cognitive mechanisms  
+  
 ---
 ***
 
@@ -58,7 +59,7 @@ Publications
 
 
 
-Hobbies  
+Hobbies
 ======
 🎾 Tennis (Level: NTRP 3.5)  
 ⛰️ Hiking and mountain climbing  
