@@ -16,12 +16,12 @@ My research interests focus on utilizing various technological approaches to add
 
 ### Research Areas
 
-- **Self**: Investigating the fundamental mechanisms of self-related processing and its role in human cognition and behavior
-- **Flow**: Exploring the psychological state of flow experience and its implications for optimal performance and well-being
+- **Self**: Investigating the mechanisms of self-related processing and its role in human cognition
+- **Flow**: Exploring the psychological state of flow experience and its applications
 
 ### Technologies
 
-- **fMRI**: resting-state & task-based
+- **Neuroimaging**: resting-state fMRI, task-based fMRI, and DTI
 - **Machine Learning**: Predicting human behavior through computational approaches
 - **Natural Language Processing**: Leveraging text analysis to understand psychological phenomena in natural language
 - **Drift Diffusion Modeling**: Implementing computational modeling to understand decision-making processes and cognitive mechanisms  
@@ -103,7 +103,7 @@ Full-time Data Analyst for 4 years across multiple industries including insuranc
 
 Hobbies
 ======
-🎾 Tennis (Level: NTRP 3.5)  
+🎾 Tennis (level: NTRP 3.5)  
 ⛰️ Hiking and mountain climbing  
 
 <img src="images/tennis.jpg" alt="Tennis" width="200" height="200" style="margin-right: 20px;"> <img src="images/hiking.jpg" alt="Hiking" width="200" height="200">
