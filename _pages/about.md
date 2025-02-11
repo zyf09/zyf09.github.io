@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- ![Research interest](/images/logo-zyf.jpg){: .align-right width='300px'}{:style="float: right; margin-left: 10px;"} -->
 ![Research interest](/images/logo-zyf.jpg){:style="float: right; margin-left: 10px; width:256px"}
-I am a Ph.D. candidate in Psychology at Tsinghua University (清华大学心理与认知科学系), where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang (王非)](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and <span style="color:#FF8C00; font-weight:bold;"> am actively seeking postdoctoral or faculty positions </span>.  
+I am a Ph.D. candidate in Psychology at Tsinghua University (清华大学心理与认知科学系), where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en) (王非), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and <span style="color:#FF8C00; font-weight:bold;"> am actively seeking postdoctoral or faculty positions </span>.  
 I welcome potential collaborations and opportunities.
   
 ---
@@ -90,7 +90,7 @@ Professional Training
 **[2024.07]: Multimodal Neuroimaging Analysis Training with FSL**
 - Training in FSL neuroimaging analysis (structural MRI, functional MRI, and DTI)
 - Organized by Institute of Psychology, Chinese Academy of Sciences
-- Instructed by Yazhuo Kong (孔亚卓) and Jixin Liu (刘继欣)
+- Instructed by [Yazhuo Kong](https://scholar.google.com/citations?user=juKcGHMAAAAJ&hl=en&oi=ao) (孔亚卓) and [Jixin Liu](https://scholar.google.com/citations?user=zat2rNQAAAAJ&hl=en&oi=ao) (刘继欣)
 
 
 ---
@@ -110,4 +110,3 @@ Hobbies
 ⛰️ Hiking and mountain climbing  
 
 <img src="images/tennis.jpg" alt="Tennis" width="200" height="200" style="margin-right: 20px;"> <img src="images/hiking.jpg" alt="Hiking" width="200" height="200">
-<!-- ![Tennis](images/profile.jpg) -->
