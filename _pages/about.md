@@ -25,7 +25,7 @@ My research interests focus on utilizing various technological approaches to add
 
 ### Technologies
 
-- **Neuroimaging**: resting-state fMRI, task-based fMRI, and DTI
+- **Neuroimaging**: resting-state fMRI, task-based fMRI, DTI, EEG, and fNIRS
 - **Machine Learning**: Predicting human behavior through computational approaches
 - **Natural Language Processing**: Leveraging text analysis to understand psychological phenomena in natural language
 - **Drift Diffusion Modeling**: Implementing computational modeling to understand decision-making processes and cognitive mechanisms  
