@@ -67,7 +67,7 @@ Funding
 
 ---
 
-HONORS & AWARDS
+Honors & Awards
 ======
 - 2024: Award for Outstanding Poster at the Doctoral Students Forum of Tsinghua University
 - 2024: Yatu Academic Excellence Scholarship of Tsinghua University	
