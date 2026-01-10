@@ -36,17 +36,17 @@ Publications
 ======
 <span style="color: grey;">#co-first author; *corresponding author</span>
 ### Published (6) 
-1. **Zhang, Y.**, Sun, Y., Wang, H., Pan, W, Wang, F., & Sui, J. (2026). Neural Compensation in Medial Prefrontal Cortex Preserves Self-Prioritization in Aging: A Computational Approach. ***Journal of Neuroscience***, 46(1). [https://doi.org/10.1523/JNEUROSCI.0487-25.2025](https://doi.org/10.1523/JNEUROSCI.0487-25.2025)
+1. **Zhang, Y.**, Sun, Y., Wang, H., Pan, W, Wang, F., & Sui, J. (2026). Neural Compensation in Medial Prefrontal Cortex Preserves Self-Prioritization in Aging: A Computational Approach. ***Journal of Neuroscience***, 46(1). [https://doi.org/10.1523/JNEUROSCI.0487-25.2025](https://doi.org/10.1523/JNEUROSCI.0487-25.2025)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 4.0, ESCI Q2)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-2. Liang, Q., **Zhang, Y.**, Li, Z., Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Examining the Role of Similarity and Positivity Cognition in Intertemporal Decision-Making among Male Abstinent Heroin Users: Insights from a Future Self-Continuity Perspective. ***Collabra: Psychology***, 11(1). [https://doi.org/10.1525/collabra.150270](https://doi.org/10.1525/collabra.150270)
+2. Liang, Q., **Zhang, Y.**, Li, Z., Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Examining the Role of Similarity and Positivity Cognition in Intertemporal Decision-Making among Male Abstinent Heroin Users: Insights from a Future Self-Continuity Perspective. ***Collabra: Psychology***, 11(1). [https://doi.org/10.1525/collabra.150270](https://doi.org/10.1525/collabra.150270)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 3.2, SSCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-3. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). [https://doi.org/10.1038/s41398-025-03594-y](https://doi.org/10.1525/collabra.150270)
+3. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). [https://doi.org/10.1038/s41398-025-03594-y](https://doi.org/10.1525/collabra.150270)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 6.2, SSCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
@@ -69,7 +69,7 @@ Publications
 ### In submission (3) 
 
 1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (Under Review). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
-2. Jia, S., **Zhang, Y. `*`**, & Wang, F. * (Under Review). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis.
+2. Jia, S., **Zhang, Y. `*`**, & Wang, F. * (Under Review). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis. [https://osf.io/preprints/psyarxiv/vwxbk_v2](https://osf.io/preprints/psyarxiv/vwxbk_v2)
 3. Guan, F, Xie, W, Wang, F, Ma, H, Li Y., **Zhang, Y. `*`**, Peng, K * (In Submission). Adaptive Neural Connectivity Changes in Lowland-to-Highland Migration: A Multimodal MRI Predictive Study.
 
 
