@@ -66,9 +66,12 @@ Publications
 (IF<sub>2024</sub> = 2.9, SSCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-### In submission (2) 
+### In submission (3) 
 
 1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (In submission). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
+2. Jia, S., **Zhang, Y. `*`**, & Wang, F. * (Under Review). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis.
+3. Guan, F, Xie, W, Wang, F, Ma, H, Li Y., **Zhang, Y. `*`**, Peng, K * (In Submission). Adaptive Neural Connectivity Changes in Lowland-to-Highland Migration: A Multimodal MRI Predictive Study.
+
 
 ---
 
