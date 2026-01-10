@@ -68,7 +68,7 @@ Publications
 
 ### In submission (3) 
 
-1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (In submission). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
+1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (Under Review). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
 2. Jia, S., **Zhang, Y. `*`**, & Wang, F. * (Under Review). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis.
 3. Guan, F, Xie, W, Wang, F, Ma, H, Li Y., **Zhang, Y. `*`**, Peng, K * (In Submission). Adaptive Neural Connectivity Changes in Lowland-to-Highland Migration: A Multimodal MRI Predictive Study.
 
@@ -83,18 +83,21 @@ Funding
 
 Honors & Awards
 ======
+- 2025: China National Scholarship
+- 2025: Wangdazhong Scholarship of Tsinghua University
 - 2024: Award for Outstanding Poster at the Doctoral Students Forum of Tsinghua University
 - 2024: Yatu Academic Excellence Scholarship of Tsinghua University	
 - 2023: Excellent Comprehensive Scholarship of Tsinghua University
-- 2021: Excellent Master Thesis of Tsinghua University	
-
+- 2021: Excellent Master Thesis of Tsinghua University
 
 ---
 
 Peer Review Service
 ======
-- Reviewer, *Acta Psychologica*
-- Reviewer, *Frontiers in Human Neuroscience*
+- Reviewer, *Frontiers in Neural Circuits* (2026)
+- Reviewer, *Frontiers in Psychiatry* (2025)
+- Reviewer, *Acta Psychologica* (2025)
+- Reviewer, *Frontiers in Human Neuroscience* (2025)
 
 
 ---
