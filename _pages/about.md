@@ -35,29 +35,37 @@ My research interests focus on utilizing various technological approaches to add
 Publications  
 ======
 <span style="color: grey;">#co-first author; *corresponding author</span>
-### Published (3) 
-1. **Zhang, Y.**, & Wang, F.* (2024). Developments and trends in flow research over 40 years: A bibliometric analysis. ***Collabra: Psychology***, 10(1). [https://doi.org/10.1525/collabra.92948](https://doi.org/10.1525/collabra.92948)  
+### Published (6) 
+1. **Zhang, Y.**, Sun, Y., Wang, H., Pan, W, Wang, F., & Sui, J. (2026). Neural Compensation in Medial Prefrontal Cortex Preserves Self-Prioritization in Aging: A Computational Approach. ***Journal of Neuroscience***, 46(1). https://doi.org/10.1523/JNEUROSCI.0487-25.2025
 <!-- 📄[Download PDF]   -->
-(IF<sub>2023</sub> = 3.1, SSCI Q1)  
+(IF<sub>2024</sub> = 4.0, ESCI Q2)
+
+2. Liang, Q., **Zhang, Y.**, Li, Z., Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Examining the Role of Similarity and Positivity Cognition in Intertemporal Decision-Making among Male Abstinent Heroin Users: Insights from a Future Self-Continuity Perspective. ***Collabra: Psychology***, 11(1). https://doi.org/10.1525/collabra.150270
+<!-- 📄[Download PDF]   -->
+(IF<sub>2024</sub> = 3.2, SSCI Q1)
+
+3. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). https://doi.org/10.1038/s41398-025-03594-y
+<!-- 📄[Download PDF]   -->
+(IF<sub>2024</sub> = 6.2, SSCI Q1)
+
+4. **Zhang, Y.**, & Wang, F.* (2024). Developments and trends in flow research over 40 years: A bibliometric analysis. ***Collabra: Psychology***, 10(1). [https://doi.org/10.1525/collabra.92948](https://doi.org/10.1525/collabra.92948)  
+<!-- 📄[Download PDF]   -->
+(IF<sub>2024</sub> = 3.2, SSCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-2. **Zhang, Y.**, Wang, F.\*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
+5. **Zhang, Y.**, Wang, F.\*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
 <!-- 📄[Download PDF]   -->
-(IF<sub>2023</sub> = 4.7, ESCI Q1)  
+(IF<sub>2024</sub> = 4.5, ESCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-3. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2022). Influence of competition-outcome feedback in video games on players’ flow experience. ***Current Psychology***, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
+6. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2022). Influence of competition-outcome feedback in video games on players’ flow experience. ***Current Psychology***, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
 <!-- 📄[Download PDF]   -->
-(IF<sub>2023</sub> = 2.5, SSCI Q2)  
+(IF<sub>2024</sub> = 2.9, SSCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-### In submission (3) 
+### In submission (2) 
 
-1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (In submission). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)  
-
-2. **Zhang, Y.**, Sun, Y., Wang, H., Pan, W., Wang, F.*, & Sui, J. (In submission). Neural Compensation in Medial Prefrontal Cortex Preserves Self-Prioritization in Aging: A Computational Approach.
-
-3. Liang, Q., **Zhang, Y.**, Wang, F., Wang, Y., Cheng, X., & Zhang, J. (In submission). Dissociation of self and mother-related processing in abstinent heroin misusers. [https://www.authorea.com/doi/full/10.22541/au.172505835.58381832](https://www.authorea.com/doi/full/10.22541/au.172505835.58381832)  
+1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (In submission). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
 
 ---
 
