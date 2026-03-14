@@ -1,6 +1,5 @@
 ---
 permalink: /
-# title: "👋 Hi, I'm Yongfa!"
 title: "Yongfa Zhang"
 author_profile: true
 redirect_from: 
@@ -89,10 +88,10 @@ Honors & Awards
 
 Peer Review Service
 ======
+- Reviewer, *Humanities and Social Sciences Communications* (2025)
 - Reviewer, *Frontiers in Psychiatry* (2025)
 - Reviewer, *Acta Psychologica* (2025)
 - Reviewer, *Frontiers in Human Neuroscience* (2025)
-
 
 ---
 
@@ -100,7 +99,6 @@ Invited Talks
 ======
 **[2023.12]: The theoretical and practical issues of resting-state fMRI**
 - Invited by Prof. Pei Sun to give a guest lecture in *Brain Science Experiments* course at Tsinghua University
-
 
 ---
 
