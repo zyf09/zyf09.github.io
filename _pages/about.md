@@ -88,7 +88,7 @@ Honors & Awards
 
 Peer Review Service
 ======
-- Reviewer, *Humanities and Social Sciences Communications* (2025)
+- Reviewer, *Humanities and Social Sciences Communications* (2026)
 - Reviewer, *Frontiers in Psychiatry* (2025)
 - Reviewer, *Acta Psychologica* (2025)
 - Reviewer, *Frontiers in Human Neuroscience* (2025)
