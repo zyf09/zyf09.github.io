@@ -10,25 +10,19 @@ redirect_from:
 
 ![Research interest](/images/logo-zyf.jpg){:style="float: right; margin-left: 16px; width:225px"}
 <!-- ![Research interest](/images/logo-zyf.jpg){: .align-right width='300px'}{:style="float: right; margin-left: 10px;"} -->
-I am a Ph.D. candidate in Psychology at Tsinghua University (清华大学心理与认知科学系), where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en) (王非), I am conducting research in the neural associations of self-processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and <span style="color:#FF8C00; font-weight:bold;"> am actively seeking postdoctoral or faculty positions</span>.  
+I am a Ph.D. candidate in Psychology at Tsinghua University (清华大学心理与认知科学系), where I also earned my Master's degree in Psychology in 2021. Under the supervision of [Dr. Fei Wang](https://scholar.google.com/citations?user=qHG9jEAAAAAJ&hl=en) (王非), I am conducting research in the computational neural mechanisms of self-related information processing. I also work with [Dr. Jie Sui](https://www.abdn.ac.uk/people/jie.sui) from the University of Aberdeen. I am expected to complete my Ph.D. in June 2026 and <span style="color:#FF8C00; font-weight:bold;"> am actively seeking postdoctoral or faculty positions</span>.  
 I welcome potential collaborations and opportunities.
 
 ---
 
 # Research Interests  
-My research interests focus on utilizing various technological approaches to address significant questions in social, cultural, and cognitive psychology.
+My research focuses on the psychological, computational, and neural mechanisms of social cognition, with a particular emphasis on the self. I am interested in the nature of the self, its representation in the brain, and the possibility of characterizing self-related processes using computational models. I also aim to study how different aspects of the self are shaped by innate factors, social experience, cultural context, and interpersonal relationships. Methodologically, I use a multimethod approach that combines behavioral experiments, large-scale data analysis, natural language processing, computational modeling, and neuroimaging techniques across both healthy and clinical populations.
 
-### Research Areas
+I am also interested in applied topics such as video games, flow experience, and artificial intelligence.
 
-- **Self**: Investigating the mechanisms of self-related processing and its role in human cognition
-- **Flow**: Exploring the psychological state of flow experience and its applications
 
-### Technologies
-
-- **Neuroimaging**: resting-state fMRI, task-based fMRI, DTI, EEG, and fNIRS
-- **Machine Learning**: Predicting human behavior through computational approaches
-- **Natural Language Processing**: Leveraging text analysis to understand psychological phenomena in natural language
-- **Drift Diffusion Modeling**: Implementing computational modeling to understand decision-making processes and cognitive mechanisms  
+- ***Research Keywords***: Social Cognition, Self, Self-Positivity, Flow Experience, Video Games
+- ***Methods***: fMRI, DTI, TMS, EEG, fNIRS, Machine Learning, Reinforcement Learning, Drift Diffusion Modeling, Bibliometric Analysis
 
 ---
 
