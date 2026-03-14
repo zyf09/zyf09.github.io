@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "👋 Hi, I'm Yongfa!"
+# title: "👋 Hi, I'm Yongfa!"
+title: "Yongfa Zhang"
 author_profile: true
 redirect_from: 
   - /about/
