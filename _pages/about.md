@@ -29,7 +29,7 @@ I am also interested in applied topics such as video games, flow experience, and
 Publications  
 ======
 <span style="color: grey;">#co-first author; *corresponding author</span>
-### Published (6) 
+### Published (7) 
 1. Jia, S., <strong>Zhang, Y. *</strong> , & Wang, F. * (2026). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis. ***Artificial Intelligence Review***. https://doi.org/10.1007/s10462-026-11543-4
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 13.9, SCI Q1)
@@ -45,27 +45,27 @@ Publications
 (IF<sub>2024</sub> = 3.2, SSCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-3. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). [https://doi.org/10.1038/s41398-025-03594-y](https://doi.org/10.1525/collabra.150270)  
+4. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). [https://doi.org/10.1038/s41398-025-03594-y](https://doi.org/10.1525/collabra.150270)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 6.2, SSCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-4. **Zhang, Y.**, & Wang, F.* (2024). Developments and trends in flow research over 40 years: A bibliometric analysis. ***Collabra: Psychology***, 10(1). [https://doi.org/10.1525/collabra.92948](https://doi.org/10.1525/collabra.92948)  
+5. **Zhang, Y.**, & Wang, F.* (2024). Developments and trends in flow research over 40 years: A bibliometric analysis. ***Collabra: Psychology***, 10(1). [https://doi.org/10.1525/collabra.92948](https://doi.org/10.1525/collabra.92948)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 3.2, SSCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-5. **Zhang, Y.**, Wang, F.\*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
+6. **Zhang, Y.**, Wang, F.\*, & Sui, J. (2023). Decoding individual differences in self-prioritization from the resting-state functional connectome. ***NeuroImage***, 276, 120205. [https://doi.org/10.1016/j.neuroimage.2023.120205](https://doi.org/10.1016/j.neuroimage.2023.120205)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 4.5, ESCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-6. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2022). Influence of competition-outcome feedback in video games on players’ flow experience. ***Current Psychology***, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
+7. **Zhang, Y.**#, Liang, Q.#, & Wang, F.* (2022). Influence of competition-outcome feedback in video games on players’ flow experience. ***Current Psychology***, 42(21), 17583-17594. [https://doi.org/10.1007/s12144-022-02935-0](https://doi.org/10.1007/s12144-022-02935-0)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 2.9, SSCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-### In submission (3) 
+### In submission (2) 
 
 1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (Under Review). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
 2. Guan, F, Xie, W, Wang, F, Ma, H, Li Y., **Zhang, Y. `*`**, Peng, K * (In Submission). Adaptive Neural Connectivity Changes in Lowland-to-Highland Migration: A Multimodal MRI Predictive Study.
