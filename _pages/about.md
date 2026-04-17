@@ -30,7 +30,7 @@ Publications
 ======
 <span style="color: grey;">#co-first author; *corresponding author</span>
 ### Published (7) 
-1. Jia, S., <strong>Zhang, Y. \* </strong>, & Wang, F. * (2026). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis. ***Artificial Intelligence Review***. https://doi.org/10.1007/s10462-026-11543-4
+1. Jia, S., <strong>Zhang, Y. \* </strong>, & Wang, F. * (2026). Mapping the Landscape of AI-empowered Psychology: A Topic Modeling-based Bibliometric Analysis. ***Artificial Intelligence Review***. [https://doi.org/10.1007/s10462-026-11543-4](https://doi.org/10.1007/s10462-026-11543-4)
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 13.9, SCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
