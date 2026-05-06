@@ -18,10 +18,10 @@ I welcome potential collaborations and opportunities.
 # Research Interests  
 My research focuses on the psychological, computational, and neural mechanisms of social cognition, with a particular emphasis on the self. I am interested in the nature of the self, its representation in the brain, and the possibility of characterizing self-related processes using computational models. I also aim to study how different aspects of the self are shaped by innate factors, social experience, cultural context, and interpersonal relationships. Methodologically, I use a multimethod approach that combines behavioral experiments, large-scale data analysis, natural language processing, computational modeling, and neuroimaging techniques across both healthy and clinical populations.
 
-I am also interested in applied topics such as video games, flow experience, and artificial intelligence.
+Building on this background, I aim to extend my research to the social psychology of human–AI interaction and AI agent research. I am particularly interested in how people perceive, understand, trust, cooperate with, and attribute minds to artificial agents; how AI systems may shape self-concept, social relationships, group processes, and cultural norms; and how psychologically grounded LLM-based agents and multi-agent simulations may help model social and cultural behavior. More broadly, I hope to explore how psychology, cognitive neuroscience, and artificial intelligence can inform one another in the study of human and artificial social cognition.
 
 
-- ***Research Keywords***: Social Cognition, Self, Self-Positivity, Flow Experience, Video Games
+- ***Research Keywords***: Social Cognition, Self, Human-AI Interaction, Flow Experience, Video Games
 - ***Methods***: fMRI, DTI, TMS, EEG, fNIRS, Machine Learning, Reinforcement Learning, Drift Diffusion Modeling, Bibliometric Analysis
 
 ---
