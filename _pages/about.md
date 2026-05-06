@@ -21,7 +21,7 @@ My research focuses on the psychological, computational, and neural mechanisms o
 Building on this background, I aim to extend my research to the social psychology of human–AI interaction and AI agent research. I am particularly interested in how people perceive, understand, trust, cooperate with, and attribute minds to artificial agents; how AI systems may shape self-concept, social relationships, group processes, and cultural norms; and how psychologically grounded LLM-based agents and multi-agent simulations may help model social and cultural behavior. More broadly, I hope to explore how psychology, cognitive neuroscience, and artificial intelligence can inform one another in the study of human and artificial social cognition.
 
 
-- ***Research Keywords***: Social Cognition, Self, Human-AI Interaction, Flow Experience, Video Games
+- ***Research Keywords***: Social Cognition, Self, Human-AI Interaction, Flow, Video Games
 - ***Methods***: fMRI, DTI, TMS, EEG, fNIRS, Machine Learning, Reinforcement Learning, Drift Diffusion Modeling, Bibliometric Analysis
 
 ---
