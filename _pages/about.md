@@ -73,16 +73,11 @@ Publications
 (IF<sub>2024</sub> = 2.9, SSCI Q1)  
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-### In submission (2) 
-
-1. **Zhang, Y.**, Zou, F., Jia, S., & Wang, F.* (Under Review). Mapping the Positive Self-Bias Embedded in Human Languages. [https://osf.io/preprints/psyarxiv/mnv37_v1](https://osf.io/preprints/psyarxiv/mnv37_v1)
-2. Guan, F, Xie, W, Wang, F, Ma, H, Li Y., **Zhang, Y. `*`**, Peng, K * (In Submission). Adaptive Neural Connectivity Changes in Lowland-to-Highland Migration: A Multimodal MRI Predictive Study.
-
-
 ---
 
-Funding
+Funding and Fellowship
 ======
+- ELSC Post-Doctoral Fellowship in Brain Sciences
 - Future Talented Program of Social Sciences in Tsinghua University (202223)
 
 ---
@@ -103,10 +98,12 @@ Honors & Awards
 
 Peer Review Service
 ======
-- Reviewer, *Psychological Research* (2026)
+- Reviewer, *Journal of Technology in Human Services* (2026)
+- Reviewer, *Scientific Report* (2026)
+- Reviewer, *Psychological Research* (2026, 2026)
 - Reviewer, *Humanities and Social Sciences Communications* (2026)
 - Reviewer, *Frontiers in Psychiatry* (2025)
-- Reviewer, *Acta Psychologica* (2025)
+- Reviewer, *Acta Psychologica* (2025, 2026)
 - Reviewer, *Frontiers in Human Neuroscience* (2025)
 
 ---
