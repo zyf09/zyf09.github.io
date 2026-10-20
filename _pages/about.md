@@ -53,7 +53,7 @@ Publications
 (IF<sub>2024</sub> = 3.2, SSCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
 
-4. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). [https://doi.org/10.1038/s41398-025-03594-y](https://doi.org/10.1525/collabra.150270)  
+4. Liang, Q., **Zhang, Y.**, Wang, Y., Cheng, X., Zhang, J., Wang, F., Huang, X., Wang, F. & Lu, L. (2025). Dissociation of Self and Mother-Related Processing in Abstinent Heroin Misusers. ***Translational Psychiatry***, 15(372). [https://doi.org/10.1038/s41398-025-03594-y](https://doi.org/10.1038/s41398-025-03594-y)  
 <!-- 📄[Download PDF]   -->
 (IF<sub>2024</sub> = 6.2, SSCI Q1)
 <!-- > **Abstract**: Although the self has traditionally been viewed as a higher-order mental function by most theoretical frameworks, recent research advocates a fundamental self hypothesis -->
