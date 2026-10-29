@@ -84,15 +84,15 @@ Funding and Fellowship
 
 Honors & Awards
 ======
-- 2026: Excellent Graduate of Beijing Municipality (1 recipient annually in the department)
-- 2026: Excellent Graduate of Tsinghua University (1 recipient annually in the department)
-- 2026: Excellent Doctoral Thesis of Tsinghua University (1 recipient annually in the department)
-- 2025: China National Scholarship (1-2 recipients annually in the department)
-- 2025: Wangdazhong Scholarship of Tsinghua University (1 recipient annually in the department)
-- 2024: Award for Outstanding Poster at the Doctoral Students Forum of Tsinghua University
-- 2024: Yatu Academic Excellence Scholarship of Tsinghua University	
-- 2023: Excellent Comprehensive Scholarship of Tsinghua University
-- 2021: Excellent Master Thesis of Tsinghua University (2-3 recipients annually in the department)
+- 2026: Outstanding Graduate of Beijing Municipality (<5% selected citywide)
+- 2026: Outstanding Graduate of Tsinghua University (120 of 3,000+ PhD graduates)
+- 2026: Outstanding Doctoral Dissertation Award, Tsinghua University (department’s sole recipient)
+- 2025: China National Scholarship (China’s highest national scholarship)
+- 2025: Wang Dazhong Scholarship, Tsinghua University (department’s sole recipient)
+- 2024: Outstanding Poster Award, Tsinghua University Doctoral Students’ Forum
+- 2024: Yatu Academic Excellence Scholarship, Tsinghua University
+- 2023: Comprehensive Excellence Scholarship, Tsinghua University
+- 2021: Outstanding Master’s Thesis Award, Tsinghua University (2-3 recipients annually in the department)
 
 ---
 
